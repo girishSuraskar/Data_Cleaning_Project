@@ -34,9 +34,9 @@ This project focuses on **cleaning and preprocessing raw data** using Python and
 
 ## Results & Insights
 
-- 1. Cleaned dataset ready for analysis.
+- Cleaned dataset ready for analysis.
 
-- 2.Improved data quality by handling missing and inconsistent data.
+- Improved data quality by handling missing and inconsistent data.
 
-- 3.Prepared dataset for further data analysis and visualization.
+- Prepared dataset for further data analysis and visualization.
 
